@@ -1,0 +1,28 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.navbar{
+    background-color: #6bbd97;
+}
+
+.quem_somos{
+    background-color: #976da1;
+    color: #FFFFFF;
+}
+
+.margin{  
+    padding-bottom:40px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #87d4b0;
+    color: #FFFFFF;
+}
+
+.bg_footer{
+    background-color: #6bbd97;
+    color: #074244;
+}
